@@ -15,7 +15,7 @@
 **Computer Networks — Group 11, Korea University Sejong Campus**
 Lee Seok Hyeon · Im Hyo Jin · Lee Do Hyung · Ahn Jin Hwan
 
-> 🎬 **Presentation video:** [Watch on YouTube](https://youtu.be/REPLACE_ME) <!-- TODO: replace -->
+> 🎬 **Presentation video: https://drive.google.com/file/d/1ihQc_vqI6fG0983eNjbZNalIhzWIYn_7/view?usp=drive_link
 > 🚗 **17-second simulation demo:** [media/simulation_demo.mp4](media/simulation_demo.mp4)
 
 ---
